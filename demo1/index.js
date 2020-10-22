@@ -1,5 +1,5 @@
 /*
- * 数组去重，建议使用hasOwnProperty来判断
+ * 数组去重，建议使用hasOwnProperty来判断,第五种方法
  *
  */
 const array = [
